@@ -13,7 +13,7 @@ public:
 	bool CheckGuessValidity(std::string); //TODO make a more rich return value
 	
 
-// Please try and ignore this and focus on the interface above
+// Please ignore this and focus on the interface above, this was simply a tangent from the course presenter.
 private:
 	int MyCurrentTry;
 	int MyMaxTries;
