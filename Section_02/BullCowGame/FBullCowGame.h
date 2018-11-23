@@ -1,7 +1,8 @@
 #pragma once
 #include <string>
 
-
+// NOTES FOR THE READER
+// This file is currently not used, as this is the file I am working on and developing at the time of upload.
 
 class {
 public:
